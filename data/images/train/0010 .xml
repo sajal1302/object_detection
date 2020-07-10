@@ -1,14 +1,18 @@
 <annotation>
   <folder>images</folder>
   <filename>0010 .jpg</filename>
+  <size>
+    <width>560</width>
+    <height>1344</height>
+  </size>
   <object>
     <name>name</name>
     <class>1</class>
     <bndbox>
-      <xmin>16</xmin>
-      <ymin>144</ymin>
-      <xmax>529</xmax>
-      <ymax>328</ymax>
+      <xmin>169</xmin>
+      <ymin>129</ymin>
+      <xmax>527</xmax>
+      <ymax>304</ymax>
     </bndbox>
     <score>1</score>
   </object>
@@ -16,10 +20,10 @@
     <name>amount</name>
     <class>2</class>
     <bndbox>
-      <xmin>178</xmin>
-      <ymin>632</ymin>
-      <xmax>385</xmax>
-      <ymax>754</ymax>
+      <xmin>173</xmin>
+      <ymin>627</ymin>
+      <xmax>383</xmax>
+      <ymax>741</ymax>
     </bndbox>
     <score>1</score>
   </object>
@@ -27,10 +31,10 @@
     <name>date</name>
     <class>3</class>
     <bndbox>
-      <xmin>93</xmin>
-      <ymin>936</ymin>
-      <xmax>335</xmax>
-      <ymax>1024</ymax>
+      <xmin>91</xmin>
+      <ymin>935</ymin>
+      <xmax>346</xmax>
+      <ymax>1026</ymax>
     </bndbox>
     <score>1</score>
   </object>
@@ -38,10 +42,10 @@
     <name>currency</name>
     <class>4</class>
     <bndbox>
-      <xmin>89</xmin>
-      <ymin>625</ymin>
-      <xmax>189</xmax>
-      <ymax>729</ymax>
+      <xmin>100</xmin>
+      <ymin>632</ymin>
+      <xmax>188</xmax>
+      <ymax>722</ymax>
     </bndbox>
     <score>1</score>
   </object>
