@@ -1,18 +1,14 @@
 <annotation>
   <folder>images</folder>
   <filename>0003.jpg</filename>
-  <size>
-    <width>928</width>
-    <height>2272</height>
-  </size>
   <object>
     <name>name</name>
     <class>1</class>
     <bndbox>
-      <xmin>203</xmin>
-      <ymin>197</ymin>
-      <xmax>810</xmax>
-      <ymax>438</ymax>
+      <xmin>214</xmin>
+      <ymin>168</ymin>
+      <xmax>696</xmax>
+      <ymax>468</ymax>
     </bndbox>
     <score>1</score>
   </object>
@@ -21,8 +17,8 @@
     <class>2</class>
     <bndbox>
       <xmin>731</xmin>
-      <ymin>906</ymin>
-      <xmax>822</xmax>
+      <ymin>909</ymin>
+      <xmax>829</xmax>
       <ymax>978</ymax>
     </bndbox>
     <score>1</score>
@@ -31,10 +27,10 @@
     <name>date</name>
     <class>3</class>
     <bndbox>
-      <xmin>56</xmin>
-      <ymin>1908</ymin>
-      <xmax>242</xmax>
-      <ymax>2006</ymax>
+      <xmin>34</xmin>
+      <ymin>1902</ymin>
+      <xmax>261</xmax>
+      <ymax>2022</ymax>
     </bndbox>
     <score>1</score>
   </object>
@@ -43,9 +39,9 @@
     <class>4</class>
     <bndbox>
       <xmin>668</xmin>
-      <ymin>900</ymin>
-      <xmax>737</xmax>
-      <ymax>975</ymax>
+      <ymin>884</ymin>
+      <xmax>731</xmax>
+      <ymax>963</ymax>
     </bndbox>
     <score>1</score>
   </object>
